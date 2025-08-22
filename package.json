@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "description": "https://github.com/mui/mui-x/blob/v8.10.2/docs/data/data-grid/localization/CustomLocaleTextGrid.tsx",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "latest",
+    "@mui/x-data-grid": "latest",
+    "@mui/x-data-grid-generator": "latest",
+    "react-dom": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/icons-material": "latest",
+    "typescript": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest"
+  }
+}
